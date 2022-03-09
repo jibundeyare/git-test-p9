@@ -6,4 +6,8 @@ Ce projet est un test d'utilisation de git.
 
 - bash
 - git
-- linux
+- linux- git
+
+## Install
+
+    git clone git@github.com:jibundeyare/git-test-p9.git
